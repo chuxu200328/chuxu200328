@@ -2,7 +2,7 @@
 
 ## My name is Chu Xu(初旭).
 
-###💻Lable
+### 💻Lable
 `HTML` `CSS` `javascript` `React` `Leaening new skills...`
 
 
