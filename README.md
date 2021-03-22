@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 ### 💻Lable
-`HTML` `CSS` `javascript` `React` `Leaening new skills...`
+`HTML` `CSS` `javascript` `React` `React Native` `Node.js` `Leaening new skills...`
 
 
